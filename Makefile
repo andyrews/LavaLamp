@@ -2,7 +2,7 @@ format:
 	black *.ipynb
 
 lint:
-	pylint --disable=R,C *.ipynb
+	nbqa pylint blobDetection.ipynb
 
 req_update:
 	pip freeze > requirements.txt
