@@ -1,4 +1,9 @@
 # Lava Lamp Hashing with Blob Detection
+- Main focus is on simulating true randomness with hardware-based entropy with lava lamps
+- With this, other applications can be:
+    1. Procedural Generation
+    2. ML model  benchmarking for handling true randomness
+
 ##Features
 - Detects lava lamp blobs in a video.
 - Extracts x, y, width, height, and centroid coordinates.
@@ -19,4 +24,4 @@ source venv/bin/activate
 3. Clone Project then `make all`
 
 ##Sample
-![Demo Video](media/Final Lava Lamp.gif)
+![Demo Video](media/sample.gif)
