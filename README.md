@@ -1,6 +1,6 @@
 # Lava Lamp Hashing with Blob Detection
 - Main focus is on simulating true randomness with hardware-based entropy with lava lamps
-- With this, other applications can be:
+- Asides from hashing, other applications can be:
     1. Procedural Generation
     2. ML model  benchmarking for handling true randomness
 
