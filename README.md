@@ -21,7 +21,9 @@ On MacOS/Linux:
 ```sh
 source venv/bin/activate
 ```
-3. Clone Project then `make all`
+3. Ensure make is installed in system
+For windows, `choco install make` in powershell
+4. Clone Project then `make all`
 
 ## Sample
 ![Demo Video](media/sample.gif)
