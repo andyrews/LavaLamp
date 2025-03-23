@@ -19,4 +19,4 @@ source venv/bin/activate
 3. Clone Project then `make all`
 
 ##Sample
-![Demo Video](media/sample.gif)
+![Demo Video](media/Final Lava Lamp.gif)
